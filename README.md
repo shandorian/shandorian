@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @shandorian 🔭 I’m currently working in Edge AI solutions <br>👯 I’m looking to collaborate on content creation and opensource projects<br>🤝 I’m looking for help with developing a Bionic Arm for Real Time Gesture recognition <br>🌱 I’m currently learning Bare Metal Programming & Robotics<br>💬 Ask me about sensor ML inferencing
+👋 Hi, I’m @shandorian <br>🔭 I’m currently working in Edge AI solutions <br>👯 I’m looking to collaborate on content creation and opensource projects<br>🤝 I’m looking for help with developing a Bionic Arm for Real Time Gesture recognition <br>🌱 I’m currently learning Bare Metal Programming & Robotics<br>💬 Ask me about sensor ML inferencing
 
 
 ## 🌐 Socials:
